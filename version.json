@@ -1,7 +1,7 @@
 {
-  "version": "1.2.3",
-  "windows_url": "https://github.com/xxtools-xyz/tapestry/releases/download/v1.2.3/TapestryDownloaderSetup.exe",
-  "macos_url": "https://github.com/xxtools-xyz/tapestry/releases/download/v1.2.3/TapestryDownloader-macOS.dmg",
-  "download_url": "https://github.com/xxtools-xyz/tapestry/releases/download/v1.2.3/TapestryDownloaderSetup.exe",
+  "version": "1.2.5",
+  "windows_url": "https://github.com/xxtools-xyz/tapestry/releases/download/v1.2.5/TapestryDownloaderSetup.exe",
+  "macos_url": "https://github.com/xxtools-xyz/tapestry/releases/download/v1.2.5/TapestryDownloader-macOS.dmg",
+  "download_url": "https://github.com/xxtools-xyz/tapestry/releases/download/v1.2.5/TapestryDownloaderSetup.exe",
   "release_notes": ""
 }
